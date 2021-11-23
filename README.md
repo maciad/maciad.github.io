@@ -15,4 +15,4 @@ Do moich zainteresowań należą:
 
 #### Linki
 Znajdź mnie na:
-* [githubie] (https://github.com/maciad)
+* [githubie](https://github.com/maciad)
