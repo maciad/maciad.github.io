@@ -21,7 +21,7 @@ Pozostali uczestnicy projektu:
 * [Jan Tyc](https://tycjantyc.github.io/)
 * [Jakub Wądrzyk](https://shikoqu.github.io/)
 * [Damian Moskała](https://damianm02.github.io/)
-* Filip Pilarek
+* [Filip Pilarek](https://tigerly1.github.io/)
 
 
 
