@@ -19,4 +19,4 @@ Znajdź mnie na:
 * [githubie](https://github.com/maciad)
 * [LinkedIn](https://www.linkedin.com/in/maciej-adamus-932036270/)
 
-
+Strona stworzona w ramach przedmiotu Narzędzia Informatyczne
