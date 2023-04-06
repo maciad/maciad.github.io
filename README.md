@@ -1,6 +1,6 @@
 ## Krótko o mnie
 
-Nazywam się Maciej Adamus, jestem 19-letnim pasjoantem informatyki.
+Nazywam się Maciej Adamus, jestem 21-letnim pasjonatem informatyki.
 
 ### Wykształcenie
 
@@ -13,20 +13,10 @@ Do moich zainteresowań należą:
 * Sport 
 * Gry strategiczne
 
-### Projekt CODEBLASTERS
-Projekt powstał w ramach ćwiczeń z przedmiotu narzędzia informatyczne. Celem projektu jest między innymi zapoznanie się z rozproszonymi systemami kontroli wersji poprzez stworzenie gry, ktorej celem jest pozbycie się przeciwników z planszy za pomocą stawiania bomb w strategicznych pozycjach.
-
-Pozostali uczestnicy projektu:
-* [Adrian Jaśkowiec](https://mynameisarko.github.io/)
-* [Jan Tyc](https://tycjantyc.github.io/)
-* [Jakub Wądrzyk](https://shikoqu.github.io/)
-* [Damian Moskała](https://damianm02.github.io/)
-* [Filip Pilarek](https://tigerly1.github.io/)
-
-
 
 #### Linki
 Znajdź mnie na:
 * [githubie](https://github.com/maciad)
+* [LinkedIn](https://www.linkedin.com/in/maciej-adamus-932036270/)
 
 
